@@ -586,7 +586,6 @@ free -h                           # Memory usage
 
 **Author:** Sezgin Yurdakul  
 **Date:** November 10, 2025  
-**Project:** Magento Database API
 
 ---
 
